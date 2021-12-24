@@ -1,0 +1,48 @@
+.navbar{
+    background-color: #8a0093;
+    
+}
+.anchor{
+    color: white;
+}
+.anchor:hover{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.form{
+    height: 88px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(244 199 255);
+    color: #8a0093;
+}
+form div{
+    padding: 20px;
+    color: #8a0093;
+}
+form{
+    background-color: rgb(244 199 255);
+}
+#btn{
+    width: 110px;
+    outline: none;
+    background-color: #8a0093;
+    color: white;
+}
+#btn:hover{
+    background-color: rebeccapurple;
+}
+.alerts{
+    position: relative;
+    padding: 1rem 1rem;
+    margin-bottom: 0rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+}
+.d-flex {
+    display: flex!important;
+    background-color:  #8a0093;
+}
